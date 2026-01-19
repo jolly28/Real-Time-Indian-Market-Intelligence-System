@@ -38,3 +38,6 @@ main.py will:
 - Store results in data/processed/tweets.parquet
 - Generate quantitative sentiment signals
 - Display memory-efficient visualizations
+
+IDE: PyCharm
+Python: 3.13
